@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G!smeteo Parser</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Название:</string>
+    <string name="city">Город:</string>
+    <string name="temp">Температура:</string>
+    <string name="wind">Ветер:</string>
+    <string name="bar">Атмосферное давление:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="water">Температура воды:</string>
+    <string name="load_data">Load Data</string>
+</resources>
